@@ -1,1 +1,0 @@
-In this lab, we learn about M-QAM modulation, a technique used in modern communication systems like digital TV and wireless networks. The goal is to understand how to program different modulations based on signal constellations using GNU Radio. The tools used are Linux (Ubuntu), Git, GitHub, and GNU Radio.
